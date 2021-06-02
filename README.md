@@ -1,4 +1,4 @@
-# DH110-Assignment-Final
+# GenMeet: Bridge The Gap
 
 # Project title
 
