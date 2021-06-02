@@ -48,9 +48,9 @@ After conducting the UT, I expanded my experiments with competing websites and s
 
 Find the full contextual inquiry [here.](https://github.com/valentinnguyen/DH110-Assignment-04#readme)
 
-During the interview, 
+## UX Storytelling: Personas, Journey Maps, Scenarios
 
-## UX Storytelling
+Based on my understanding of video-chatting apps, I developed two personas and scenarios that depicted the type of users that would use the GenMeet app, along with their typical interactions with the app.
 
 First Persona: Maya Edwards
 
@@ -66,13 +66,22 @@ Second Persona: Charlie Clark
 
 Read more on UX storytelling [here.](https://github.com/valentinnguyen/DH110-Assignment-04#readme)
 
-## Wireframe and graphic design element variation [assignment06 + part of 07]
+## Wireframe, Graphic Design & Low-fidelity Prototype
 
-## Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+Before beginning prototype development, I began experimenting with different features that I wanted to incorporate into my app to make it more accessible and easy to use for my target users. I soon began my initial wireframes for my low-fidelity protoype based on the scenarios of my two personas
+
+![Assignment 5 Personas (2)](https://user-images.githubusercontent.com/81778205/116382908-3b4c7c00-a7cb-11eb-87f6-6f4339e25d79.png)
+
+![Assignment 5 Personas (1)](https://user-images.githubusercontent.com/81778205/116382886-37b8f500-a7cb-11eb-81bb-5121fef1cbab.png)
+
+![Page3](https://user-images.githubusercontent.com/81778205/117117463-6a6f6a00-ad44-11eb-9f70-360f8f4f036d.png)
+
+View the full low-fidelity prototype [here.](https://github.com/valentinnguyen/DH110-Assignment-05#readme)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FWW7jIq1L6tkLk8NqY9PNlS%2FDH110-Assignment-06%3Fpage-id%3D115%253A7%26node-id%3D130%253A2024%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
