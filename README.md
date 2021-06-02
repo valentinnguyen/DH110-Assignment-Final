@@ -21,13 +21,13 @@ Some limitations that to this activity that can be improved with technology is m
 ## Competitor Analysis:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
-| Info | Application 1 | Applicaiton 2 |
+| Info | Application 1 | Application 2 |
 | ------------ | ------------- | ------------ |
-| Name | Content Cell | Content Cell |
-| URL | Content Cell | Content Cell |
-| Screenshot |
-| PreseNtation |
-| Overall Evaluation |
+| Name | Omegle | AmeriCorps |
+| URL | [Link to Omegle](https://www.omegle.com/) | [Link to AmeriCorps](https://americorps.gov/) |
+| Screenshot | <img width="1680" alt="Omegle Homepage" src="https://user-images.githubusercontent.com/81778205/113912737-5578d880-9790-11eb-8510-a58beedb8e87.png"> | <img width="1680" alt="AmeriCorps Homepage" src="https://user-images.githubusercontent.com/81778205/113912767-5f024080-9790-11eb-8847-2d628b19ad79.png"> |
+| Presentation | Omegle is a free video chat website that allows people to socialize and connect with others. Users do not need to register or login to use the service, as it randomly and anonymously pairs users in private chat sessions. Omegle's aim is to connect people from all over, no matter where they are or who they are. Its homepage looks very outdated and has poor UI, but all the essential elements are there: social media buttons at the top righthand corner, a bar where the user can type in what their interests are, and a 'text' and 'video' option that the user can choose from. Additionally, there is a description of Omegle and what it is as well as an open terms of agreement at the bottom. | AmeriCorps is a federal agency that brings elders together to directly serving nonprofit organizations. Its mission is to strengthen communities and foster civic engagement through service and volunteering. It is mostly a site where seniors ages 55 and older can deliver acts of services such as collaborating with schools, responding to environmental disasters, combating housing and food insecurity, and more. At first glance, the homepage is clear and states program's mission straight away. The navigation bar is clearly at the top for easy access, and the overall site design has a distinct color scheme accompanied with enticing photos. |
+| Overall Evaluation | Overall, Omegle has a lot of major usability issues that can leave any user, whether they are well-versed in technology or are new to technology, confused and unattracted to the site. Omegle's service has a lot of potential and many people know about it, but the website development itself could be improved so that it is more modern. | Overall, the AmeriCorps website is an aesthetic and ethically user-friendly website with easy navigation. There are only minor elements (such as the profile registration page) that needs to be more consistent with the rest of the website in general, but the majority of the site is accessible for anyone no matter what their level of technological ability is. |
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
