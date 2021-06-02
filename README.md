@@ -72,7 +72,7 @@ Based on my understanding of video-chatting app users, I developed two personas 
 
 **Read more on UX storytelling [here.](https://github.com/valentinnguyen/DH110-Assignment-04#readme)**
 
-## Wireframe, Graphic Design, & Low-fidelity Prototype
+## Wireframe, Graphic Design, & Low-Fidelity Prototype
 
 Before beginning prototype development, I began experimenting with different features that I wanted to incorporate into my app to make it more accessible and easy to use for my target users. I soon began my initial wireframes for my low-fidelity protoype based on the scenarios of my two personas. Based on user research, the following features seek to solve the common limitations of chatting online:
 
@@ -81,6 +81,10 @@ Before beginning prototype development, I began experimenting with different fea
 3. **Ease of Use** - provide accessible, convenient and usable flow throughout the app that minimizes the chance and possibility to confusion and frustration for the user through minimal text and effective design.
 
 The puropse of this low-fidelty prototype is to test the functionality and flow of the features listed above, and to see how well it can be integrated into the current process of meeting other people. This will test whether the features I have designed work for people realistically, while also observing and inquiring them about the app and its features. The test will give me an opportunity to find solutions to making certain features better and more accessible through listening to their suggestions.
+
+### Wireframe
+
+<img width="819" alt="Screen Shot 2021-06-02 at 12 06 42 PM" src="https://user-images.githubusercontent.com/81778205/120538197-11bedb80-c39b-11eb-8c8e-9582a0fdb2e7.png">
 
 ### Graphic Design: UI Screen Designs with Variations
 
@@ -92,7 +96,7 @@ Below are variations of the homepage interface design:
 
 <img width="1128" alt="Screen Shot 2021-05-11 at 4 41 29 PM" src="https://user-images.githubusercontent.com/81778205/117897498-cface900-b277-11eb-8a33-882c9dff0f4d.png">
 
-### Lo-fidelity Prototypes
+### Low-fidelity Prototypes
 
 #### Prototype #1 (Sketch):
 
