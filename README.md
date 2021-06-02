@@ -18,7 +18,7 @@ Some limitations that to this activity that can be improved with technology is m
 #### Omegle
 [Link to Omegle](https://www.omegle.com/)
 
-<img width="800" alt="Omegle Homepage" src="https://user-images.githubusercontent.com/81778205/113912737-5578d880-9790-11eb-8510-a58beedb8e87.png">
+<img width="500" alt="Omegle Homepage" src="https://user-images.githubusercontent.com/81778205/113912737-5578d880-9790-11eb-8510-a58beedb8e87.png">
 
 I first conduced a heuristic evaluation on one of the most well-known video-chatting apps at the moment, Omegle. Omegle is a free video chat website that allows people to socialize and connect with others. Users do not need to register or login to use the service, as it randomly and anonymously pairs users in private chat sessions. Its homepage looks very outdated and has poor UI, but all the essential elements are there: social media buttons at the top righthand corner, a bar where the user can type in what their interests are, and a 'text' and 'video' option that the user can choose from.
 
@@ -27,7 +27,7 @@ Overall, Omegle has a lot of major usability issues that can leave any user, whe
 #### AmeriCorps
 [Link to AmeriCorps](https://americorps.gov/) 
 
-<img width="800" alt="AmeriCorps Homepage" src="https://user-images.githubusercontent.com/81778205/113912767-5f024080-9790-11eb-8847-2d628b19ad79.png">
+<img width="500" alt="AmeriCorps Homepage" src="https://user-images.githubusercontent.com/81778205/113912767-5f024080-9790-11eb-8847-2d628b19ad79.png">
 
 Then, I conducted heurisitic evaluations on the AmeriCorps website, which is a federal agency that brings elders together to directly serving nonprofit organizations. It is mostly a site where seniors ages 55 and older can deliver acts of services such as collaborating with schools, responding to environmental disasters, combating housing and food insecurity, and more. At first glance, the homepage is clear and states program's mission straight away. The navigation bar is clearly at the top for easy access, and the overall site design has a distinct color scheme accompanied with enticing photos. 
 
@@ -100,7 +100,7 @@ The puropse of this low-fidelty prototype is to test the functionality and flow 
 
 Embedded Prototype:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="500" height="1000" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FWW7jIq1L6tkLk8NqY9PNlS%2FDH110-Assignment-06%3Fpage-id%3D115%253A7%26node-id%3D130%253A2024%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="300" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FWW7jIq1L6tkLk8NqY9PNlS%2FDH110-Assignment-06%3Fpage-id%3D115%253A7%26node-id%3D130%253A2024%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 **View the final wireflows and cognitive walkthrough [here.](https://github.com/valentinnguyen/DH110-Assignment-06.2#readme)**
 
