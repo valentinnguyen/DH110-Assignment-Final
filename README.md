@@ -7,7 +7,7 @@ GenMeet is an app that is meant to "bridge the gap" by providing an opportunity 
 
 The purpose of GenMeet is to create a visual prototype draft of one of the many tasks a user will have to perform when using the website. It is meant to cater towards users who have just found the website and navigates them through the process of making their own profile within the site.
 
-## Design Statement: 
+## Design Statement
 
 Through my UX design project, I hope to "bridge the gap" between multigenerational communities by offering an easy way for people in different generations to meet and get to know each other. This project will encourage conversations between people of different age groups and would allow for anyone, no matter how well-versed they are in technology, to accessbily use the service. It will hopefully serve people who are younger as well as others who are older, especially those who are local in the Los Angeles area, to become more interested in socializing with others despite the generation gap. 
 
@@ -17,7 +17,7 @@ Current solutions to satisfying this need for practicing social and interpersona
 
 Some limitations that to this activity that can be improved with technology is more awareness and accessbility for young people to meet with the elderly and vice versa. Technology would allow those interactions to happy more quickly and efficiently, and could also provide a safety barrier between the parties via the computer screen in case any of the users are uncomfortable with meeting new people in person.
 
-## Competitor Analysis:
+## Competitor Analysis
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
 | Info | Application 1 | Application 2 |
@@ -41,7 +41,7 @@ This pilot usability test gave me a better understanding of the point of view fr
 
 View full usability testing [here.](https://github.com/valentinnguyen/DH110-Assignment-02#readme)
 
-## User Research [contextual inquiry, assignment04]:
+## User Research
 Summary and link to your assignment folder
 
 After conducting the UT, I expanded my experiments with competing websites and sought to figure out how users look for information online about other useres. I set up a contextual inquiry, or participatory observation where I asked the participants questions about how they searched things up online.
@@ -50,8 +50,21 @@ Find the full contextual inquiry [here.](https://github.com/valentinnguyen/DH110
 
 During the interview, 
 
-## UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+## UX Storytelling
+
+First Persona: Maya Edwards
+
+![Assignment 5 Personas (1)](https://user-images.githubusercontent.com/81778205/116372663-81044700-a7c1-11eb-9660-3f0aafb4e2fd.png)
+
+![Assignment 5 Personas (2)](https://user-images.githubusercontent.com/81778205/116372679-8497ce00-a7c1-11eb-9cfc-409fbe16922a.png)
+
+Second Persona: Charlie Clark
+
+![Assignment 5 Personas (4)](https://user-images.githubusercontent.com/81778205/116372736-95484400-a7c1-11eb-8f08-d282908d5029.png)
+
+![Assignment 5 Personas (5)](https://user-images.githubusercontent.com/81778205/116372747-98dbcb00-a7c1-11eb-9f68-fb6d65e0b0f0.png)
+
+Read more on UX storytelling [here.](https://github.com/valentinnguyen/DH110-Assignment-04#readme)
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
 
