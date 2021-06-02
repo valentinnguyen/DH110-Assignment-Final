@@ -82,6 +82,18 @@ Before beginning prototype development, I began experimenting with different fea
 
 The puropse of this low-fidelty prototype is to test the functionality and flow of the features listed above, and to see how well it can be integrated into the current process of meeting other people. This will test whether the features I have designed work for people realistically, while also observing and inquiring them about the app and its features. The test will give me an opportunity to find solutions to making certain features better and more accessible through listening to their suggestions.
 
+### Graphic Design: UI Screen Designs with Variations
+
+Below are variations of the homepage interface design:
+- Top left: Light Mode, which is also the default home screen for all interfaces.
+- Bottom left: Dark mode, for users that prefer dark mode.
+- Top right: Black and White Light Mode, for users that prefer black and white mode.
+- Bottom right: Black and White Dark Mode, for users that prefer black and white mode and dark mode.
+
+<img width="1128" alt="Screen Shot 2021-05-11 at 4 41 29 PM" src="https://user-images.githubusercontent.com/81778205/117897498-cface900-b277-11eb-8a33-882c9dff0f4d.png">
+
+### Lo-fidelity Prototypes
+
 #### Prototype #1 (Sketch):
 
 ![Page1](https://user-images.githubusercontent.com/81778205/117117291-3d22bc00-ad44-11eb-8a43-59e41a9474c9.png)
