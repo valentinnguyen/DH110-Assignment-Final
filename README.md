@@ -35,7 +35,7 @@ Overall, the AmeriCorps website is an aesthetic and ethically user-friendly webs
 
 **View the full heuristic evaluations [here.](https://github.com/valentinnguyen/DH110-Assignment-01#readme)**
 
-### Usability Testing
+## Usability Testing
 
 After conducting heuristic evaliuations on my potential competitors, I realized multiple principles were being violated and wanted to look further into the Omegle website to see how my target audience would react to it. The goal of this experiment was to see if my usability test material was effective, and to also better understand the user's usability experience. This pilot usability test gave me a better understanding of the point of view from my target audience and made some points during the test that I had not realized before. To name a few points I learned:
 - For the actual making of the usability test, I learned about how difficult it was to create tasks for a website that does not have many features. I, myself, had a hard time trying to figure out the different features of the site when finding tasks for the participant to do.
@@ -46,7 +46,7 @@ After conducting heuristic evaliuations on my potential competitors, I realized 
 
 ## User Research & Contextual Inquiry
 
-After conducting the UT, I expanded my experiments with competing websites and sought to figure out how users look for information online about other useres. I set up a contextual inquiry, or participatory observation where I asked the participants questions about how they searched things up online. THe goal of this contextual inquirt was to 
+After conducting the UT, I expanded my experiments with competing websites and sought to figure out how users look for information online about other useres. I set up a contextual inquiry, or participatory observation where I asked the participants questions about how they searched things up online. The goal of this contextual inquirt was to 
 
 **View the full contextual inquiry document [here.](https://github.com/valentinnguyen/DH110-Assignment-04#readme)**
 
@@ -54,32 +54,47 @@ After conducting the UT, I expanded my experiments with competing websites and s
 
 Based on my understanding of video-chatting app users, I developed two personas and scenarios that depicted the type of users that would use the GenMeet app, along with their typical interactions with the app.
 
-First Persona: Maya Edwards
+**First Persona: Maya Edwards
 
 ![Assignment 5 Personas (1)](https://user-images.githubusercontent.com/81778205/116372663-81044700-a7c1-11eb-9660-3f0aafb4e2fd.png)
 
 ![Assignment 5 Personas (2)](https://user-images.githubusercontent.com/81778205/116372679-8497ce00-a7c1-11eb-9cfc-409fbe16922a.png)
 
-Second Persona: Charlie Clark
+![Assignment 5 Personas (2)](https://user-images.githubusercontent.com/81778205/116382908-3b4c7c00-a7cb-11eb-87f6-6f4339e25d79.png)
+
+**Second Persona: Charlie Clark
 
 ![Assignment 5 Personas (4)](https://user-images.githubusercontent.com/81778205/116372736-95484400-a7c1-11eb-8f08-d282908d5029.png)
 
 ![Assignment 5 Personas (5)](https://user-images.githubusercontent.com/81778205/116372747-98dbcb00-a7c1-11eb-9f68-fb6d65e0b0f0.png)
 
-
-![Assignment 5 Personas (2)](https://user-images.githubusercontent.com/81778205/116382908-3b4c7c00-a7cb-11eb-87f6-6f4339e25d79.png)
-
 ![Assignment 5 Personas (1)](https://user-images.githubusercontent.com/81778205/116382886-37b8f500-a7cb-11eb-81bb-5121fef1cbab.png)
 
-Read more on UX storytelling [here.](https://github.com/valentinnguyen/DH110-Assignment-04#readme)
+**Read more on UX storytelling [here.](https://github.com/valentinnguyen/DH110-Assignment-04#readme)**
 
-## Wireframe, Graphic Design & Low-fidelity Prototype
+## Wireframe, Graphic Design, & Low-fidelity Prototype
 
-Before beginning prototype development, I began experimenting with different features that I wanted to incorporate into my app to make it more accessible and easy to use for my target users. I soon began my initial wireframes for my low-fidelity protoype based on the scenarios of my two personas
+Before beginning prototype development, I began experimenting with different features that I wanted to incorporate into my app to make it more accessible and easy to use for my target users. I soon began my initial wireframes for my low-fidelity protoype based on the scenarios of my two personas. Based on user research, the following features seek to solve the common limitations of chatting online:
+
+1. **User Verification Check** - ensures that users go through a thorough virtual background check to establish a strong sense of safety between users; creates a sense of safety for users when they use the app so that they know the chatting service is meant for serious, productive, and purposeful intentions rather than less serious intentions
+2. **Help Page** - provides a list of commonly asked questions in regards to the legitimacy of the app as well as how to navigate it.
+3. **Ease of Use** - provide accessible, convenient and usable flow throughout the app that minimizes the chance and possibility to confusion and frustration for the user through minimal text and effective design.
+
+The puropse of this low-fidelty prototype is to test the functionality and flow of the features listed above, and to see how well it can be integrated into the current process of meeting other people. This will test whether the features I have designed work for people realistically, while also observing and inquiring them about the app and its features. The test will give me an opportunity to find solutions to making certain features better and more accessible through listening to their suggestions.
+
+#### Prototype #1 (Sketch):
+
+![Page1](https://user-images.githubusercontent.com/81778205/117117291-3d22bc00-ad44-11eb-8a43-59e41a9474c9.png)
+
+#### Prototype #2 (Refined):
 
 ![Page3](https://user-images.githubusercontent.com/81778205/117117463-6a6f6a00-ad44-11eb-9f70-360f8f4f036d.png)
 
-View the full low-fidelity prototype [here.](https://github.com/valentinnguyen/DH110-Assignment-05#readme)
+#### User Pathway Test
+
+![Page2](https://user-images.githubusercontent.com/81778205/117117341-4ad84180-ad44-11eb-8f14-e06724119854.png)
+
+**View the full low-fidelity prototype [here.](https://github.com/valentinnguyen/DH110-Assignment-05#readme)**
 
 ## High-fidelity Prototype
 
@@ -87,13 +102,13 @@ Embedded Prototype:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="500" height="1000" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FWW7jIq1L6tkLk8NqY9PNlS%2FDH110-Assignment-06%3Fpage-id%3D115%253A7%26node-id%3D130%253A2024%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
-View the final wireflows and cognitive walkthrough [here.](https://github.com/valentinnguyen/DH110-Assignment-06.2#readme)
+**View the final wireflows and cognitive walkthrough [here.](https://github.com/valentinnguyen/DH110-Assignment-06.2#readme)**
 
-### Video Pitch 
+## Video Pitch 
 
-View the link to the pitch video [here.]
+**View the link to the pitch video [here.]**
 
-### Conclusion
+## Conclusion
 
 Overall, I think aspects that were successful in making this prototype was keeping an aesthetic and minimalistic design throughout the whole process. It was tedious trying to create the extra screens that navigated the users in order to prevent errors on their end, but I think they were necessary because users will have to input their basic information. The overall purpose of the website is to bring people from different communities together, because that doesn't happen very easily or often. I think it comes with a lack of trust between different communities where people seem afraid or uninterested in cultures that aren't their own. In forcing the user to provide their information in addition to the phone number verification in the end, it will hopefully help users realize that everyone using the website had gone through the same extensive process. This ultimately makes sure that users feel safe when using the app and that they don't come across users that won't use the app for its intended purpose.
 
