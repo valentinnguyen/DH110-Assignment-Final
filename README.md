@@ -54,7 +54,7 @@ After conducting the UT, I expanded my experiments with competing websites and s
 
 Based on my understanding of video-chatting app users, I developed two personas and scenarios that depicted the type of users that would use the GenMeet app, along with their typical interactions with the app.
 
-**First Persona: Maya Edwards
+**First Persona: Maya Edwards**
 
 ![Assignment 5 Personas (1)](https://user-images.githubusercontent.com/81778205/116372663-81044700-a7c1-11eb-9660-3f0aafb4e2fd.png)
 
@@ -62,7 +62,7 @@ Based on my understanding of video-chatting app users, I developed two personas 
 
 ![Assignment 5 Personas (2)](https://user-images.githubusercontent.com/81778205/116382908-3b4c7c00-a7cb-11eb-87f6-6f4339e25d79.png)
 
-**Second Persona: Charlie Clark
+**Second Persona: Charlie Clark**
 
 ![Assignment 5 Personas (4)](https://user-images.githubusercontent.com/81778205/116372736-95484400-a7c1-11eb-8f08-d282908d5029.png)
 
