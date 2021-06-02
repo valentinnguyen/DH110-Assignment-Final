@@ -45,15 +45,14 @@ After conducting heuristic evaliuations on my potential competitors, I realized 
 **View the full usability testing document [here.](https://github.com/valentinnguyen/DH110-Assignment-02#readme)**
 
 ## User Research & Contextual Inquiry
-Summary and link to your assignment folder
 
-After conducting the UT, I expanded my experiments with competing websites and sought to figure out how users look for information online about other useres. I set up a contextual inquiry, or participatory observation where I asked the participants questions about how they searched things up online.
+After conducting the UT, I expanded my experiments with competing websites and sought to figure out how users look for information online about other useres. I set up a contextual inquiry, or participatory observation where I asked the participants questions about how they searched things up online. THe goal of this contextual inquirt was to 
 
 **View the full contextual inquiry document [here.](https://github.com/valentinnguyen/DH110-Assignment-04#readme)**
 
 ## UX Storytelling: Personas, Journey Maps, Scenarios
 
-Based on my understanding of video-chatting apps, I developed two personas and scenarios that depicted the type of users that would use the GenMeet app, along with their typical interactions with the app.
+Based on my understanding of video-chatting app users, I developed two personas and scenarios that depicted the type of users that would use the GenMeet app, along with their typical interactions with the app.
 
 First Persona: Maya Edwards
 
@@ -67,15 +66,16 @@ Second Persona: Charlie Clark
 
 ![Assignment 5 Personas (5)](https://user-images.githubusercontent.com/81778205/116372747-98dbcb00-a7c1-11eb-9f68-fb6d65e0b0f0.png)
 
+
+![Assignment 5 Personas (2)](https://user-images.githubusercontent.com/81778205/116382908-3b4c7c00-a7cb-11eb-87f6-6f4339e25d79.png)
+
+![Assignment 5 Personas (1)](https://user-images.githubusercontent.com/81778205/116382886-37b8f500-a7cb-11eb-81bb-5121fef1cbab.png)
+
 Read more on UX storytelling [here.](https://github.com/valentinnguyen/DH110-Assignment-04#readme)
 
 ## Wireframe, Graphic Design & Low-fidelity Prototype
 
 Before beginning prototype development, I began experimenting with different features that I wanted to incorporate into my app to make it more accessible and easy to use for my target users. I soon began my initial wireframes for my low-fidelity protoype based on the scenarios of my two personas
-
-![Assignment 5 Personas (2)](https://user-images.githubusercontent.com/81778205/116382908-3b4c7c00-a7cb-11eb-87f6-6f4339e25d79.png)
-
-![Assignment 5 Personas (1)](https://user-images.githubusercontent.com/81778205/116382886-37b8f500-a7cb-11eb-81bb-5121fef1cbab.png)
 
 ![Page3](https://user-images.githubusercontent.com/81778205/117117463-6a6f6a00-ad44-11eb-9f70-360f8f4f036d.png)
 
