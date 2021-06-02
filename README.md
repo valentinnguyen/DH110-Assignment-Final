@@ -79,13 +79,25 @@ Before beginning prototype development, I began experimenting with different fea
 View the full low-fidelity prototype [here.](https://github.com/valentinnguyen/DH110-Assignment-05#readme)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+
+Embedded Prototype:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FWW7jIq1L6tkLk8NqY9PNlS%2FDH110-Assignment-06%3Fpage-id%3D115%253A7%26node-id%3D130%253A2024%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
-### Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+View the final wireflows and cognitive walkthrough [here.](https://github.com/valentinnguyen/DH110-Assignment-06.2#readme)
 
-### Pitch video 
+### Video Pitch 
 
-### Conclusion: what did you learn throughout the process?
+View the link to the pitch video [here.]
+
+### Conclusion
+
+Overall, I think aspects that were successful in making this prototype was keeping an aesthetic and minimalistic design throughout the whole process. It was tedious trying to create the extra screens that navigated the users in order to prevent errors on their end, but I think they were necessary because users will have to input their basic information. The overall purpose of the website is to bring people from different communities together, because that doesn't happen very easily or often. I think it comes with a lack of trust between different communities where people seem afraid or uninterested in cultures that aren't their own. In forcing the user to provide their information in addition to the phone number verification in the end, it will hopefully help users realize that everyone using the website had gone through the same extensive process. This ultimately makes sure that users feel safe when using the app and that they don't come across users that won't use the app for its intended purpose.
+
+Things I would want to add or revise when editing my prototype:
+- Change the screen sizes to fit a general phone instead.
+- Allow the user to go back to the home screen by clicking on the top lefthand logo at any point during the process of creating their profile.
+- Maybe the global font sizes smaller so that they are a more standard size for computers.
+- Find an alternative way to display the "photo rules" to the user when they get to the part in the process of uploading their photo (e.g. make another button that leads them to another screen listing all the photo rules).
+- Make the chevron "back button" arrow more noticeable by making it into more of a button than a shape on the screen (e.g. had a black square border around the arrow to make it look like a button).
+- Maybe add a log-in feature on the home screen? The prototype at the moment is mainly for users that have never used the app before and have just launched the app.
