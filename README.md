@@ -3,9 +3,9 @@
 ##### By Valentin Nguyen, Digital Humanities 110: UI/UX Design, Spring 2021
 
 ## Introduction
-GenMeet is an app that is meant to "bridge the gap" by providing an opportunity to bring people from different generations together. Generation gaps are an inevitable phenomenon that happens naturally as cultures, trends, music genres, and language develop across eras. The youth might often hear elders being their phrases with, "Kids these days..." or, "When I was young..." The contrast between generations largely has to do with the advancement of technology. Although boomers (refered to those born between 1946 to 1964, whom are now between 58 to 65 years old as of 2021) use the Internet on a regular basis, Millenials (20 to 36 year olds) and younger generation are much more involved and technologically well-versed. 
+GenMeet is an app that is meant to "bridge the gap" by providing an opportunity to bring people from different generations together. Generation gaps are an inevitable phenomenon that happens naturally as cultures, trends, music genres, and language develop across eras. The contrast between generations largely depends on the advancement of technology. Although boomers (refered to those born between 1946 to 1964, whom are now between 58 to 65 years old as of 2021) use the Internet on a regular basis, Millenials (20 to 36 year olds) and younger generation are much more involved and technologically well-versed. 
 
-The goal of GenMeet is to bridge the generational gap by being open to learning and understanding why these differences exist, and exploring new ways to communicate with others. It encourages users to learn how to communicate effectively and respectfully in a multi-generational environment, and leverage differences to build stronger relationships. This project will encourage conversations between people of different age groups and would allow for anyone, no matter how well-versed they are in technology, to accessbily use the service. It will hopefully serve people who are younger as well as others who are older, especially those who are local in the Los Angeles area, to become more interested in socializing with others despite the generation gap. 
+The goal of GenMeet is to bridge the generational gap by being open to learning and understanding why these differences exist, and exploring new ways to communicate with others. It encourages users to learn how to communicate effectively and respectfully in a multi-generational environment, and leverage differences to build stronger relationships. This project will encourage conversations between people of different age groups and would allow for anyone, no matter how well-versed they are in technology, to accessbily use the service.
 
 ## Design Statement
 
@@ -16,7 +16,7 @@ Some limitations that to this activity that can be improved with technology is m
 ## Competitor Analysis & Heuristic Evaluation
 
 #### Omegle
-[Link to Omegle](https://www.omegle.com/)
+**[Link to Omegle](https://www.omegle.com/)**
 
 <img width="500" alt="Omegle Homepage" src="https://user-images.githubusercontent.com/81778205/113912737-5578d880-9790-11eb-8510-a58beedb8e87.png">
 
@@ -25,7 +25,7 @@ I first conduced a heuristic evaluation on one of the most well-known video-chat
 Overall, Omegle has a lot of major usability issues that can leave any user, whether they are well-versed in technology or are new to technology, confused and unattracted to the site. Omegle's service has a lot of potential and many people know about it, but the website development itself could be improved so that it is more modern. 
 
 #### AmeriCorps
-[Link to AmeriCorps](https://americorps.gov/) 
+**[Link to AmeriCorps](https://americorps.gov/)**
 
 <img width="500" alt="AmeriCorps Homepage" src="https://user-images.githubusercontent.com/81778205/113912767-5f024080-9790-11eb-8847-2d628b19ad79.png">
 
@@ -100,7 +100,7 @@ The puropse of this low-fidelty prototype is to test the functionality and flow 
 
 Embedded Prototype:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="300" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FWW7jIq1L6tkLk8NqY9PNlS%2FDH110-Assignment-06%3Fpage-id%3D115%253A7%26node-id%3D130%253A2024%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="500" height="1000" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FWW7jIq1L6tkLk8NqY9PNlS%2FDH110-Assignment-06%3Fpage-id%3D115%253A7%26node-id%3D130%253A2024%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 **View the final wireflows and cognitive walkthrough [here.](https://github.com/valentinnguyen/DH110-Assignment-06.2#readme)**
 
@@ -110,12 +110,8 @@ Embedded Prototype:
 
 ## Conclusion
 
-Overall, I think aspects that were successful in making this prototype was keeping an aesthetic and minimalistic design throughout the whole process. It was tedious trying to create the extra screens that navigated the users in order to prevent errors on their end, but I think they were necessary because users will have to input their basic information. The overall purpose of the website is to bring people from different communities together, because that doesn't happen very easily or often. I think it comes with a lack of trust between different communities where people seem afraid or uninterested in cultures that aren't their own. In forcing the user to provide their information in addition to the phone number verification in the end, it will hopefully help users realize that everyone using the website had gone through the same extensive process. This ultimately makes sure that users feel safe when using the app and that they don't come across users that won't use the app for its intended purpose.
+Overall, I have learned several things while I was making this project:
 
-Things I would want to add or revise when editing my prototype:
-- Change the screen sizes to fit a general phone instead.
-- Allow the user to go back to the home screen by clicking on the top lefthand logo at any point during the process of creating their profile.
-- Maybe the global font sizes smaller so that they are a more standard size for computers.
-- Find an alternative way to display the "photo rules" to the user when they get to the part in the process of uploading their photo (e.g. make another button that leads them to another screen listing all the photo rules).
-- Make the chevron "back button" arrow more noticeable by making it into more of a button than a shape on the screen (e.g. had a black square border around the arrow to make it look like a button).
-- Maybe add a log-in feature on the home screen? The prototype at the moment is mainly for users that have never used the app before and have just launched the app.
+- **User-based Evidence and Research:** I didn't realize how important it was to gather data from actual users that might use an app like mine! It's easy to make assumptions based on my own opinions and preferences, but sometimes I forget other people may have different levels of difficulty when navigating apps and websites. Therefore, I had to keep this in mind while creating my high-fidelity prototype.
+- **Graphical Interface Accessibility:** Although I have a strong background in art and design, I learned further that user interface choices are very technical, precise and intentional. Creating the prototype helped me learn a lot about how the graphics of an app should meet certain accessibility standards, esepcially when taking into account of different heuristic evaluations.
+- **Have Patience!** These past ten weeks have been super busy and packed with doing research and creating multiple prototypes and edits in every part of my process! There were many times during the process where I wanted it to go faster, but I realized that if I wanted to create a quality product, I need to have the patience and willingness and get through every nitty-gritty detail to create a successful product.
