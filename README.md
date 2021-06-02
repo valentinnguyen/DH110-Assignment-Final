@@ -94,6 +94,16 @@ The puropse of this low-fidelty prototype is to test the functionality and flow 
 
 ## Graphic Design: UI Screen Designs with Variations
 
+Below is a graphic indicating the accessibility check for the various color schemes I have on the interface designs:
+
+<img width="968" alt="contrast checker" src="https://user-images.githubusercontent.com/81778205/117901181-aabc7400-b27f-11eb-8003-52f5543c6bf3.png">
+
+<img width="1141" alt="color palette" src="https://user-images.githubusercontent.com/81778205/117901171-a5f7c000-b27f-11eb-8bd6-3dce59def603.png">
+
+For the typeface, I wanted to select a san serif font that was bold and simple but simply rounded. Rubik has slightly rounded corners and was provided in both Roman and Italic styles. The GenMeet logo is in the Italic Rubik typeface, and the rest of the prototype uses only the Rubik typeface.
+
+![cda34068bf385a6a143dd1e2a261ceb6](https://user-images.githubusercontent.com/81778205/117904609-84e69d80-b286-11eb-8949-c246b47cbe29.png)
+
 Below are variations of the homepage interface design:
 - Top left: Light Mode, which is also the default home screen for all interfaces.
 - Bottom left: Dark mode, for users that prefer dark mode.
