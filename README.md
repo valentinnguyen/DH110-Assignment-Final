@@ -74,11 +74,7 @@ Based on my understanding of video-chatting app users, I developed two personas 
 
 ## Low-Fidelity Prototype
 
-Before beginning prototype development, I began experimenting with different features that I wanted to incorporate into my app to make it more accessible and easy to use for my target users. I soon began my initial wireframes for my low-fidelity protoype based on the scenarios of my two personas. Based on user research, the following features seek to solve the common limitations of chatting online:
-
-1. **User Verification Check** - ensures that users go through a thorough virtual background check to establish a strong sense of safety between users; creates a sense of safety for users when they use the app so that they know the chatting service is meant for serious, productive, and purposeful intentions rather than less serious intentions
-2. **Help Page** - provides a list of commonly asked questions in regards to the legitimacy of the app as well as how to navigate it.
-3. **Ease of Use** - provide accessible, convenient and usable flow throughout the app that minimizes the chance and possibility to confusion and frustration for the user through minimal text and effective design.
+Before beginning prototype development, I began experimenting with different features that I wanted to incorporate into my app to make it more accessible and easy to use for my target users. I soon began my initial wireframes for my low-fidelity protoype based on the scenarios of my two personas. 
 
 The puropse of this low-fidelty prototype is to test the functionality and flow of the features listed above, and to see how well it can be integrated into the current process of meeting other people. This will test whether the features I have designed work for people realistically, while also observing and inquiring them about the app and its features. The test will give me an opportunity to find solutions to making certain features better and more accessible through listening to their suggestions.
 
