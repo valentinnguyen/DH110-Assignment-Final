@@ -5,7 +5,7 @@
 ## Introduction
 GenMeet is an app that is meant to "bridge the gap" by providing an opportunity to bring people from different generations together. Generation gaps are an inevitable phenomenon that happens naturally as cultures, trends, music genres, and language develop across eras. The contrast between generations largely depends on the advancement of technology. Although boomers (refered to those born between 1946 to 1964, whom are now between 58 to 65 years old as of 2021) use the Internet on a regular basis, Millenials (20 to 36 year olds) and younger generation are much more involved and technologically well-versed. 
 
-The goal of GenMeet is to bridge the generational gap by being open to learning and understanding why these differences exist, and exploring new ways to communicate with others. It encourages users to learn how to communicate effectively and respectfully in a multi-generational environment, and leverage differences to build stronger relationships. This project will encourage conversations between people of different age groups and would allow for anyone, no matter how well-versed they are in technology, to accessbily use the service.
+The goal of GenMeet is to bridge the generational gap by being open to learning and understanding why these differences exist, and exploring new ways to communicate with others. It encourages users to learn how to communicate effectively and respectfully in a multi-generational environment, and leverage differences to build stronger relationships. This project will encourage conversations between people of different age groups and would allow for anyone, no matter how well-versed they are in technology, to accessibly use the service.
 
 ## Design Statement
 
@@ -20,7 +20,7 @@ Some limitations that to this activity that can be improved with technology is m
 
 <img width="500" alt="Omegle Homepage" src="https://user-images.githubusercontent.com/81778205/113912737-5578d880-9790-11eb-8510-a58beedb8e87.png">
 
-I first conduced a heuristic evaluation on one of the most well-known video-chatting apps at the moment, Omegle. Omegle is a free video chat website that allows people to socialize and connect with others. Users do not need to register or login to use the service, as it randomly and anonymously pairs users in private chat sessions. Its homepage looks very outdated and has poor UI, but all the essential elements are there: social media buttons at the top righthand corner, a bar where the user can type in what their interests are, and a 'text' and 'video' option that the user can choose from.
+I first conducted a heuristic evaluation on one of the most well-known video-chatting apps at the moment, Omegle. Omegle is a free video chat website that allows people to socialize and connect with others. Users do not need to register or login to use the service, as it randomly and anonymously pairs users in private chat sessions. Its homepage looks very outdated and has poor UI, but all the essential elements are there: social media buttons at the top righthand corner, a bar where the user can type in what their interests are, and a 'text' and 'video' option that the user can choose from.
 
 Overall, Omegle has a lot of major usability issues that can leave any user, whether they are well-versed in technology or are new to technology, confused and unattracted to the site. Omegle's service has a lot of potential and many people know about it, but the website development itself could be improved so that it is more modern. 
 
@@ -72,7 +72,7 @@ Based on my understanding of video-chatting app users, I developed two personas 
 
 **Read more on UX storytelling [here.](https://github.com/valentinnguyen/DH110-Assignment-04#readme)**
 
-## Wireframe, Graphic Design, & Low-Fidelity Prototype
+## Low-Fidelity Prototype
 
 Before beginning prototype development, I began experimenting with different features that I wanted to incorporate into my app to make it more accessible and easy to use for my target users. I soon began my initial wireframes for my low-fidelity protoype based on the scenarios of my two personas. Based on user research, the following features seek to solve the common limitations of chatting online:
 
@@ -81,22 +81,6 @@ Before beginning prototype development, I began experimenting with different fea
 3. **Ease of Use** - provide accessible, convenient and usable flow throughout the app that minimizes the chance and possibility to confusion and frustration for the user through minimal text and effective design.
 
 The puropse of this low-fidelty prototype is to test the functionality and flow of the features listed above, and to see how well it can be integrated into the current process of meeting other people. This will test whether the features I have designed work for people realistically, while also observing and inquiring them about the app and its features. The test will give me an opportunity to find solutions to making certain features better and more accessible through listening to their suggestions.
-
-### Wireframe
-
-<img width="819" alt="Screen Shot 2021-06-02 at 12 06 42 PM" src="https://user-images.githubusercontent.com/81778205/120538197-11bedb80-c39b-11eb-8c8e-9582a0fdb2e7.png">
-
-### Graphic Design: UI Screen Designs with Variations
-
-Below are variations of the homepage interface design:
-- Top left: Light Mode, which is also the default home screen for all interfaces.
-- Bottom left: Dark mode, for users that prefer dark mode.
-- Top right: Black and White Light Mode, for users that prefer black and white mode.
-- Bottom right: Black and White Dark Mode, for users that prefer black and white mode and dark mode.
-
-<img width="1128" alt="Screen Shot 2021-05-11 at 4 41 29 PM" src="https://user-images.githubusercontent.com/81778205/117897498-cface900-b277-11eb-8a33-882c9dff0f4d.png">
-
-### Low-fidelity Prototypes
 
 #### Prototype #1 (Sketch):
 
@@ -111,6 +95,20 @@ Below are variations of the homepage interface design:
 ![Page2](https://user-images.githubusercontent.com/81778205/117117341-4ad84180-ad44-11eb-8f14-e06724119854.png)
 
 **View the full low-fidelity prototype [here.](https://github.com/valentinnguyen/DH110-Assignment-05#readme)**
+
+## Graphic Design: UI Screen Designs with Variations
+
+Below are variations of the homepage interface design:
+- Top left: Light Mode, which is also the default home screen for all interfaces.
+- Bottom left: Dark mode, for users that prefer dark mode.
+- Top right: Black and White Light Mode, for users that prefer black and white mode.
+- Bottom right: Black and White Dark Mode, for users that prefer black and white mode and dark mode.
+
+<img width="1128" alt="Screen Shot 2021-05-11 at 4 41 29 PM" src="https://user-images.githubusercontent.com/81778205/117897498-cface900-b277-11eb-8a33-882c9dff0f4d.png">
+
+## Wireframe
+
+<img width="819" alt="Screen Shot 2021-06-02 at 12 06 42 PM" src="https://user-images.githubusercontent.com/81778205/120538197-11bedb80-c39b-11eb-8c8e-9582a0fdb2e7.png">
 
 ## High-fidelity Prototype
 
