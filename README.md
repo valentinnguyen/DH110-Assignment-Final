@@ -19,7 +19,7 @@ Some limitations that to this activity that can be improved with technology is m
 
 ## Competitor Analysis
 
-##### Omegle
+#### Omegle
 [Link to Omegle](https://www.omegle.com/)
 
 <img width="1000" alt="Omegle Homepage" src="https://user-images.githubusercontent.com/81778205/113912737-5578d880-9790-11eb-8510-a58beedb8e87.png">
@@ -28,6 +28,7 @@ Omegle is a free video chat website that allows people to socialize and connect 
 
 Overall, Omegle has a lot of major usability issues that can leave any user, whether they are well-versed in technology or are new to technology, confused and unattracted to the site. Omegle's service has a lot of potential and many people know about it, but the website development itself could be improved so that it is more modern. 
 
+#### AmeriCorps
 [Link to AmeriCorps](https://americorps.gov/) 
 
 <img width="1680" alt="AmeriCorps Homepage" src="https://user-images.githubusercontent.com/81778205/113912767-5f024080-9790-11eb-8847-2d628b19ad79.png">
