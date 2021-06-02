@@ -126,7 +126,7 @@ Embedded Prototype:
 
 ## Video Pitch 
 
-**View the link to the pitch video [here.]**
+**View the link to the pitch video [here.](https://drive.google.com/file/d/1Q-YAMEATwrt0wMwlE7dtzvF_RqbmaG9N/view?usp=sharing)**
 
 ## Conclusion
 
