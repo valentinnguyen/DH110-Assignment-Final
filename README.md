@@ -90,7 +90,7 @@ View the full low-fidelity prototype [here.](https://github.com/valentinnguyen/D
 
 Embedded Prototype:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="450" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FWW7jIq1L6tkLk8NqY9PNlS%2FDH110-Assignment-06%3Fpage-id%3D115%253A7%26node-id%3D130%253A2024%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="500" height="1000" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FWW7jIq1L6tkLk8NqY9PNlS%2FDH110-Assignment-06%3Fpage-id%3D115%253A7%26node-id%3D130%253A2024%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 View the final wireflows and cognitive walkthrough [here.](https://github.com/valentinnguyen/DH110-Assignment-06.2#readme)
 
